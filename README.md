@@ -45,10 +45,10 @@ statprob-statistics-and-probability/
 
 ---
 
-##🚀 Project Details
+## 🚀 Project Details
 
 
-###**1. EDA Project: Titanic Survival Analysis**
+### **1. EDA Project: Titanic Survival Analysis**
 
 **Dataset:** Titanic - Machine Learning from Disaster (Kaggle)
 
@@ -66,7 +66,7 @@ In this module, I performed an in-depth Exploratory Data Analysis (EDA) to under
 
 
 
-###**2. Final Project: Google Play Store Analytics**
+### **2. Final Project: Google Play Store Analytics**
 
 **Dataset:** Google Play Store Apps
 
@@ -88,7 +88,7 @@ This is the capstone project where I applied advanced statistical concepts to an
 
 ---
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 The analysis was performed using the Python ecosystem:
   
@@ -104,7 +104,7 @@ The analysis was performed using the Python ecosystem:
 
 ---
 
-##💻 How to Run
+## 💻 How to Run
 
 To run these notebooks locally on your machine:
 
@@ -127,7 +127,7 @@ jupyter notebook
 
 ---
 
-##👤 Author
+## 👤 Author
 
 Catur Setyo
 GitHub: @catursetyo
