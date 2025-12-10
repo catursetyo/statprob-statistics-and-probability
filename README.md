@@ -50,7 +50,7 @@ statprob-statistics-and-probability/
 
 ### **1. EDA Project: Titanic Survival Analysis**
 
-**Dataset:** Titanic - Machine Learning from Disaster (Kaggle)
+**Dataset:** [Titanic - Machine Learning from Disaster (Kaggle)](https://www.kaggle.com/c/titanic)
 
 In this module, I performed an in-depth Exploratory Data Analysis (EDA) to understand the demographics and factors influencing passenger survival.
 
@@ -68,7 +68,7 @@ In this module, I performed an in-depth Exploratory Data Analysis (EDA) to under
 
 ### **2. Final Project: Google Play Store Analytics**
 
-**Dataset:** Google Play Store Apps
+**Dataset:** [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 This is the capstone project where I applied advanced statistical concepts to analyze the app market.
 
@@ -109,19 +109,19 @@ The analysis was performed using the Python ecosystem:
 To run these notebooks locally on your machine:
 
 1. Clone the repository:
-```
+```bash
 git clone [https://github.com/catursetyo/statprob-statistics-and-probability.git](https://github.com/catursetyo/statprob-statistics-and-probability.git)
 ```
 2. Navigate to the directory:
-```
+```bash
 cd statprob-statistics-and-probability
 ```
 3. Install dependencies:
-```
+```bash
 pip install pandas numpy matplotlib seaborn scipy jupyter
 ```
 4. Launch Jupyter Notebook:
-```
+```bash
 jupyter notebook
 ```
 
@@ -131,4 +131,4 @@ jupyter notebook
 
 Catur Setyo
 
-GitHub: @catursetyo
+* GitHub: [@catursetyo](https://github.com/catursetyo)
