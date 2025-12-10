@@ -42,82 +42,92 @@ statprob-statistics-and-probability/
 │   └── analysis_report.ipynb  # Comprehensive statistical analysis
 └── README.md                  # Project Documentation
 ```
-🚀 Project Details
-1. EDA Project: Titanic Survival Analysis
 
-Dataset: Titanic - Machine Learning from Disaster (Kaggle)
+---
+
+##🚀 Project Details
+
+
+###**1. EDA Project: Titanic Survival Analysis**
+
+**Dataset:** Titanic - Machine Learning from Disaster (Kaggle)
 
 In this module, I performed an in-depth Exploratory Data Analysis (EDA) to understand the demographics and factors influencing passenger survival.
 
-Key Activities:
+**Key Activities:**
 
-- Handling missing values (Imputation for Age and Cabin).
+* Handling missing values (Imputation for Age and Cabin).
 
-- Analyzing survival rates based on Pclass, Sex, and Embarked.
+* Analyzing survival rates based on Pclass, Sex, and Embarked.
 
-- Visualizing age distribution among survivors vs. non-survivors.
+* Visualizing age distribution among survivors vs. non-survivors.
 
-Key Insight: Examples include how female passengers and those in 1st Class had a significantly higher probability of survival.
+**Key Insight:** Examples include how female passengers and those in 1st Class had a significantly higher probability of survival.
 
-2. Final Project: Google Play Store Analytics
 
-Dataset: Google Play Store Apps
+
+###**2. Final Project: Google Play Store Analytics**
+
+**Dataset:** Google Play Store Apps
 
 This is the capstone project where I applied advanced statistical concepts to analyze the app market.
 
-Scope of Analysis:
+**Scope of Analysis:**
 
-- Exploratory Data Analysis (EDA): Cleaning data (removing duplicates, fixing data types) and analyzing Category and Rating trends.
+* Exploratory Data Analysis (EDA): Cleaning data (removing duplicates, fixing data types) and analyzing Category and Rating trends.
 
-- Distribution Identification: Checking if the app ratings follow a Normal Distribution or Skewed Distribution using visual inspection (Histograms) and statistical tests (Shapiro-Wilk/KS Test).
+* Distribution Identification: Checking if the app ratings follow a Normal Distribution or Skewed Distribution using visual inspection (Histograms) and statistical tests (Shapiro-Wilk/KS Test).
 
-- Probability Calculation: Calculating the conditional probability of an app being "Paid" given it belongs to a specific Category.
+* Probability Calculation: Calculating the conditional probability of an app being "Paid" given it belongs to a specific Category.
 
-- Sampling Distribution: Demonstrating the Central Limit Theorem (CLT) by taking random samples of app ratings.
+* Sampling Distribution: Demonstrating the Central Limit Theorem (CLT) by taking random samples of app ratings.
 
-- Hypothesis Testing:
+* Hypothesis Testing:
 
-- Example: Testing if there is a significant difference in average ratings between "Paid" apps and "Free" apps (T-Test / Mann-Whitney U).
+* Example: Testing if there is a significant difference in average ratings between "Paid" apps and "Free" apps (T-Test / Mann-Whitney U).
 
-🛠 Tech Stack
+---
+
+##🛠 Tech Stack
 
 The analysis was performed using the Python ecosystem:
   
-- Python: Core programming language.
+* **Python:** Core programming language.
 
-- Pandas: Data manipulation and cleaning.
+* **Pandas:** Data manipulation and cleaning.
 
-- NumPy: Numerical calculations.
+* **NumPy:** Numerical calculations.
 
-- Matplotlib & Seaborn: Static and statistical data visualization.
+* **Matplotlib & Seaborn:** Static and statistical data visualization.
 
-- SciPy: For probability distributions and hypothesis testing.
+* **SciPy:** For probability distributions and hypothesis testing.
 
-💻 How to Run
+---
+
+##💻 How to Run
 
 To run these notebooks locally on your machine:
 
-Clone the repository:
+1. Clone the repository:
 ```
 git clone [https://github.com/catursetyo/statprob-statistics-and-probability.git](https://github.com/catursetyo/statprob-statistics-and-probability.git)
 ```
-Navigate to the directory:
+2. Navigate to the directory:
 ```
 cd statprob-statistics-and-probability
 ```
-Install dependencies:
+3. Install dependencies:
 ```
 pip install pandas numpy matplotlib seaborn scipy jupyter
 ```
-Launch Jupyter Notebook:
+4. Launch Jupyter Notebook:
 ```
 jupyter notebook
 ```
 
-👤 Author
+---
+
+##👤 Author
 
 Catur Setyo
 GitHub: @catursetyo
-Catur Setyo
-
-    GitHub: @catursetyo
