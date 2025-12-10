@@ -74,17 +74,17 @@ This is the capstone project where I applied advanced statistical concepts to an
 
 **Scope of Analysis:**
 
-* Exploratory Data Analysis (EDA): Cleaning data (removing duplicates, fixing data types) and analyzing Category and Rating trends.
+* **Exploratory Data Analysis (EDA):** Cleaning data (removing duplicates, fixing data types) and analyzing Category and Rating trends.
 
-* Distribution Identification: Checking if the app ratings follow a Normal Distribution or Skewed Distribution using visual inspection (Histograms) and statistical tests (Shapiro-Wilk/KS Test).
+* **Distribution Identification:** Checking if the app ratings follow a Normal Distribution or Skewed Distribution using visual inspection (Histograms) and statistical tests (Shapiro-Wilk/KS Test).
 
-* Probability Calculation: Calculating the conditional probability of an app being "Paid" given it belongs to a specific Category.
+* **Probability Calculation:** Calculating the conditional probability of an app being "Paid" given it belongs to a specific Category.
 
-* Sampling Distribution: Demonstrating the Central Limit Theorem (CLT) by taking random samples of app ratings.
+* **Sampling Distribution:** Demonstrating the Central Limit Theorem (CLT) by taking random samples of app ratings.
 
-* Hypothesis Testing:
+* **Hypothesis Testing:**
 
-* Example: Testing if there is a significant difference in average ratings between "Paid" apps and "Free" apps (T-Test / Mann-Whitney U).
+    * *Example:* Testing if there is a significant difference in average ratings between "Paid" apps and "Free" apps (T-Test / Mann-Whitney U).
 
 ---
 
