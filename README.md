@@ -64,7 +64,7 @@ In this module, I performed an in-depth Exploratory Data Analysis (EDA) to under
 
 **Key Insight:** Examples include how female passengers and those in 1st Class had a significantly higher probability of survival.
 
-
+---
 
 ### **2. Final Project: Google Play Store Analytics**
 
@@ -130,4 +130,5 @@ jupyter notebook
 ## 👤 Author
 
 Catur Setyo
+
 GitHub: @catursetyo
